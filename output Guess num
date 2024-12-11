@@ -1,0 +1,13 @@
+ A random number between 1 and 100 is generated.
+Can you guess what it is?
+Enter your guess: 69
+Guess is too high. Try again.
+Enter your guess: 34
+Guess is too low. Try again.
+Enter your guess: 55
+Guess is too high. Try again.
+Enter your guess: 43
+Congratulations! You guessed the correct number.
+
+
+=== Code Execution Successful ===
